@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        img {
+            display: block;
+            margin: auto;
+        }
+        img {
+          position: relative;
+          left: 40px;
+          top:  40px;
+        }
+        img {
+          float: left;
+          margin-block: 50px;
+        }
+        img {
+          width: 270px;
+          height: auto;
+        }
+<head>
+<body>
+    <img src="my.jpg" width="100px" alt="">
+    <img src="my.jpeg" width="100px" alt="">
+    <img scr="betg.jpeg" height="100px" width="100px" alt="">
+</body>
+</html>
